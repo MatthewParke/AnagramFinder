@@ -9,5 +9,5 @@ My project is a package so the .class files will end up in a folder called "anag
 For smaller inputs, such as dict1, "java -cp . anagrams.Anagrams dict1" is what I used to run
 	through the command line on windows.
 For larger inputs, such as dict2, "java -Xmx1024m -cp . anagrams.Anagrams dict2" is what I 
-	used to run through the command line on windows
+	used to run through the command line on windows.
 	The -Xmx1024m is used to allocate extra memory to the JVM at runtime, 1024m being 1024 megabytes.
