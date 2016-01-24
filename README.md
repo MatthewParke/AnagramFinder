@@ -1,4 +1,4 @@
-# Anagrams
+# AnagramFinder
 A program made for my algorithms analysis class that is able to find all anagrams for every word in a dictionary.
 I have included a pdf of the analysis for the program which touches on descriptions, correctness proof, runtimes, and runtime analysis
 
